@@ -1,11 +1,14 @@
 #  Soy Briyit | Aspirante a ASIR & Data Analyst
-Soy Técnica en Comercio Internacional (Colombia) con formación complementaria en España y en proceso de transición hacia el área administrativa y tecnológica. Actualmente desarrollo habilidades en Linux, scripting, Excel y análisis de datos, con el objetivo de fortalecer mi perfil profesional.
+Soy Técnica en Comercio Internacional con formación complementaria en España y actualmente en un proceso de transición hacia el sector tecnológico. Estoy desarrollando competencias en Linux, soporte IT, scripting, análisis de datos y Excel avanzado, con el objetivo de construir un perfil técnico sólido que combine mi experiencia previa con nuevas habilidades digitales.
 
-Certificándome en el análisis de datos y la administración de sistemas. Documentando mi camino desde cero hasta la profesionalización.
+Mi formación actual incluye certificaciones en IT Support, ciberseguridad, análisis de datos y programación, lo que me permite explorar diferentes áreas del entorno tecnológico mientras defino mi especialización. Me interesa especialmente la administración de sistemas, la automatización y el análisis de datos aplicado a procesos empresariales.
+
+Estoy documentando mi aprendizaje y construyendo un portafolio técnico que refleje mi evolución desde cero hasta un perfil profesional orientado a sistemas y datos.
 
 ### Mis Certificaciones y Formación
 
-*   **Google:** Data Analytics Professional Certificate (En curso - Módulo 2) 
+* **Google:** IT Support Professional Certificate
+* **Google:** Data Analytics Professional Certificate 
 *   **IBM:** Cybersecurity Fundamentals & Internet/Web Foundations
 *   **HP:** Relationship Management Certificate
 *   **Santander:** Excel  - medio 
