@@ -16,23 +16,23 @@ Certificándome en el análisis de datos y la administración de sistemas. Docum
 
 *    [**Linux & SysAdmin**](https://github.com/Briy1t/linux-learning-notes) - Notas de terminal, permisos y gestión de servidores.
 *    [**AWS Path**](https://github.com/Briy1t/AWS-Learning-Path) - Infraestructura cloud y servicios de Amazon.
-*    [**Excel & Data**](https://github.com/Briy1t/EXCEL) - Análisis y limpieza de datos.
+*    [**Data_Analiystic**](https://github.com/Briy1t/Data-Analytics-learning-path?tab=readme-ov-file#fundamentos-de-an%C3%A1lisis-de-datos)) - Análisis y limpieza de datos.
 *    [**Programación**](https://github.com/Briy1t/learning-archive-python-java) - Mis pinitos en Python y Java.
 
 ## En lo que estoy trabajando
 - Fundamentos de Linux y administración básica del sistema.
-- Automatización y scripting.
-- Excel para análisis y gestión de datos.
+- Automatización y scripting para tareas repetitivas.
+- Excel aplicado a análisis y gestión de datos.
+- Consolidación de conocimientos de soporte IT.
 
 ## Objetivos a corto plazo
-- Consolidar mis conocimientos en Linux.
-- Completar proyectos prácticos en Excel.
-- Iniciar proyectos de análisis de datos con Power BI.
-- Prepararme para comenzar la FP Administración de Sistemas Informáticos en Red.
+- Reforzar conocimientos de Linux y soporte técnico.
+- Completar proyectos prácticos en Excel y análisis de datos.
+- Iniciar proyectos de visualización con Power BI.
+- Prepararme para comenzar la FP de Administración de Sistemas Informáticos en Red (ASIR)
 
 ## Objetivos a mediano plazo
-- Integrar herramientas administrativas con soluciones tecnológicas.
-- Desarrollar proyectos que combinen análisis de datos y gestión.
-- Construir un portafolio técnico sólido y organizado.
-
+- Desarrollar proyectos que combinen análisis de datos, soporte IT y automatización.
+- Construir un portafolio técnico sólido y orientado a empleabilidad.
+- Definir con claridad mi especialización dentro del área tecnológica.
 
