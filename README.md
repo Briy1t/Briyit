@@ -1,7 +1,7 @@
-#  Soy Briyit | Aspirante a ASIR & Data Analyst
+#  Soy Briyit |Aspirante a ASIR | Especializándome en Infraestructura Cloud y Seguridad
 Soy Técnica en Comercio Internacional con formación complementaria en España y actualmente en un proceso de transición hacia el sector tecnológico. Estoy desarrollando competencias en Linux, soporte IT, scripting, análisis de datos y Excel avanzado, con el objetivo de construir un perfil técnico sólido que combine mi experiencia previa con nuevas habilidades digitales.
 
-Mi formación actual incluye certificaciones en IT Support, ciberseguridad, análisis de datos y programación, lo que me permite explorar diferentes áreas del entorno tecnológico mientras defino mi especialización. Me interesa especialmente la administración de sistemas, la automatización y el análisis de datos aplicado a procesos empresariales.
+Mi formación actual incluye certificaciones en IT Support, ciberseguridad, análisis de datos y programación, lo que me permite explorar diferentes áreas del entorno tecnológico mientras defino mi especialización. Me interesa especialmente la administración de sistemas, la automatización y el análisis de datos aplicado para el monitoreo de logs, detección de anomalías y auditoría de sistemas.
 
 Estoy documentando mi aprendizaje y construyendo un portafolio técnico que refleje mi evolución desde cero hasta un perfil profesional orientado a sistemas y datos.
 
@@ -15,7 +15,7 @@ Estoy documentando mi aprendizaje y construyendo un portafolio técnico que refl
 *   **Bejob:** Python Course
 *   **Turing:** KPIs e Indicadores de Negocio
 
-### 🛠️ Rutas de Aprendizaje
+###  Rutas de Aprendizaje
 
 *    [**Linux & SysAdmin**](https://github.com/Briy1t/linux-learning-notes) - Notas de terminal, permisos y gestión de servidores.
 *    [**AWS Path**](https://github.com/Briy1t/AWS-Learning-Path) - Infraestructura cloud y servicios de Amazon.
@@ -31,7 +31,7 @@ Estoy documentando mi aprendizaje y construyendo un portafolio técnico que refl
 ## Objetivos a corto plazo
 - Reforzar conocimientos de Linux y soporte técnico.
 - Completar proyectos prácticos en Excel y análisis de datos.
-- Iniciar proyectos de visualización con Power BI.
+- Explorar servicios core de AWS (EC2, S3) para entender la infraestructura en la nube
 - Prepararme para comenzar la FP de Administración de Sistemas Informáticos en Red (ASIR)
 
 ## Objetivos a mediano plazo
